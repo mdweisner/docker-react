@@ -9,7 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there! Edit <code>src/App.js</code> and save to reload.
-          Bye!
+        </p>
+        <p>
+          I was changed and merged!
         </p>
         <a
           className="App-link"
